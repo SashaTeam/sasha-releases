@@ -4,15 +4,6 @@ Sasha distributes or makes use of third-party open-source components subject to 
 
 ---
 
-## 1. MTT File Manager (Search Service)
-
-Portions of the search service component (`sasha-search-service`) are derived from and based on [MTT File Manager](https://github.com/MTTamurex/MTT-File-Manager-RUST), developed by MTTamurex.
-
-- **Project:** MTT File Manager (Rust)
-- **Author:** MTTamurex
-- **Repository:** https://github.com/MTTamurex/MTT-File-Manager-RUST
-- **License:** Apache License, Version 2.0
-
 ### Apache License, Version 2.0
 
 ```
