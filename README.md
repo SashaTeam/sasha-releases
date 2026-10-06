@@ -12,6 +12,5 @@ Sasha is built using modern open-source technologies and libraries. For full lic
 
 ### Acknowledgements
 
-- **Search Service:** The search service (`sasha-search-service`) is derived from and based on [MTT File Manager](https://github.com/MTTamurex/MTT-File-Manager-RUST) by MTTamurex, licensed under the **Apache License, Version 2.0**.
 - **Icons:** [Lucide Icons](https://lucide.dev) (ISC License).
 - **Core Frameworks:** [Tauri](https://tauri.app) (MIT/Apache-2.0) and [Svelte](https://svelte.dev) (MIT).
